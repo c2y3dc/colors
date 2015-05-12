@@ -1,9 +1,14 @@
 body{
     font-family: monospace;
-    color: white;
+    color: dodgerblue;
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+}
+
+h1, p {
+    width: 650px;
+    margin: 0 auto;
 }
 
 .sContainer{
